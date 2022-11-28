@@ -11,3 +11,4 @@ Enfim, neste reposistório está um pouco desta nostalgia... :-)
 
 Em parceria com o professor de Física fizemos um trabalho sobre calcular distâncias de imagens em reflexos...
 
+Ainda não achei um jeito de executar heheheh
