@@ -18,8 +18,12 @@ Para executar o foxplus.exe, pode ser usado o DOSBox
 https://www.dosbox.com/
 
 
+# Hello world...
+
+Em uma tela que vc tinha apenas 80 colunas e 24 linhas, esse era o comando para escrever um texto na lina 1 e coluna 10:
+
 ![image](https://user-images.githubusercontent.com/57003640/204542219-a75b2bb3-4a85-4768-ba48-092d6f8851e1.png)
 
 
 
-![image](https://user-images.githubusercontent.com/57003640/204540295-359dcdae-ef56-49ac-a2ad-5389ffd17644.png)
+
