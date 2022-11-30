@@ -1,7 +1,7 @@
 # foxbase-nostalgia
 Primeira linguagem de programação...
 
-Outro dia eu li um post no Linkedin pedindo pra comentar qual foi a primeira linguagem de programação e eu lembrei que tinha salvo em casa ainda alguns arquivos antigos (PRG) do tempo do Ensino Médio/Técnico em Processamento de Dados (ano 1999), onde aprendemos a programar com a lingagem Foxbase (depois virou Foxpro), se não me engano é muito semelhante ao Clipper...
+Outro dia eu li um post no Linkedin pedindo pra comentar qual foi a sua primeira linguagem de programação e eu lembrei que tinha salvo em casa ainda alguns arquivos antigos (PRG) do tempo do Ensino Médio/Técnico em Processamento de Dados (ano 1999), onde aprendemos a programar com a lingagem FoxBASE+ (depois virou Foxpro), se não me engano é muito semelhante ao Clipper...
 
 Enfim, neste repositório está um pouco desta nostalgia... :-)
 
@@ -18,6 +18,7 @@ Para executar o foxplus.exe, pode ser usado o DOSBox
 https://www.dosbox.com/
 
 
+
 # Hello world...
 
 Em uma tela que vc tinha apenas 80 colunas e 24 linhas, esse era o comando para escrever um texto na lina 1 e coluna 10:
@@ -26,4 +27,26 @@ Em uma tela que vc tinha apenas 80 colunas e 24 linhas, esse era o comando para 
 
 
 
+# Trabalho de Física
 
+Consegui executar o programa do trabalho da disciplina de Física citado acima, passos executados no DOSBOX:
+
+ - montar uma unidade para a pasta onde estava o programa FoxBASE (pasta disk01) e o código fonte (pasta Foxbase/fisica)
+ 
+ MOUNT c c:\teste_fox
+ 
+
+ - entrar na pasta onde está o código fonte
+ 
+ CD c:\foxbase\fisica
+ 
+  - definir o PATH para rodar o foxplus de dentro da pasta 
+ 
+ SET PATH=C:\DISK01
+ 
+ - executar o programa
+ 
+ FOXPLUS IMAGENS.PRG
+ 
+ 
+ 
