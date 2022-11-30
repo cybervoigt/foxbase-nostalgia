@@ -52,6 +52,13 @@ SET PATH=X:\DISK01
  
  FOXPLUS IMAGENS.PRG
  
- 
+
+- Pena eu não ter dados de exemplo para simular o cálculo que o programa faz...
+
+
 ![image](https://user-images.githubusercontent.com/57003640/204927060-718450a1-9132-443d-a1f4-895bed5ebcb3.png)
 
+
+# Desafio que fica agora
+
+O desafio que fica agora, aproveitando que acabei de fazer um curso de PYTHON, pretendo reescrever o programa em breve... :-)
