@@ -27,26 +27,31 @@ Em uma tela que vc tinha apenas 80 colunas e 24 linhas, esse era o comando para 
 
 
 
+
 # Trabalho de Física
 
 Consegui executar o programa do trabalho da disciplina de Física citado acima, passos executados no DOSBOX:
 
- - montar uma unidade para a pasta onde estava o programa FoxBASE (pasta disk01) e o código fonte (pasta Foxbase/fisica)
+ - montar uma unidade de disco X apontando para a pasta (real) onde estão o FoxBASE (pasta disk01) e o código fonte (pasta Foxbase/fisica)
  
- MOUNT c c:\teste_fox
+MOUNT X c:\teste_fox
  
-
+ - entrar na unidade X:
+ 
+X:
+  
+ - definir o PATH para executar o FOXPLUS de dentro da pasta 
+ 
+SET PATH=X:\DISK01
+ 
  - entrar na pasta onde está o código fonte
  
- CD c:\foxbase\fisica
- 
-  - definir o PATH para rodar o foxplus de dentro da pasta 
- 
- SET PATH=C:\DISK01
- 
- - executar o programa
+ CD FOXBASE\FISICA
+
+- executar o programa Imagens.PRG
  
  FOXPLUS IMAGENS.PRG
  
  
- 
+![image](https://user-images.githubusercontent.com/57003640/204927060-718450a1-9132-443d-a1f4-895bed5ebcb3.png)
+
