@@ -64,4 +64,5 @@ SET PATH=X:\DISK01
 
 # Desafio que fica agora
 
-O desafio que fica agora, aproveitando que acabei de fazer um curso de PYTHON, pretendo reescrever o programa em breve... :-)
+O desafio que fica agora é encontrar alguns exemplos de números para testar e explicar esse programa, e aproveitando também que acabei de fazer um curso de PYTHON, pode ser que eu reescreva o programa em breve... :-)
+
