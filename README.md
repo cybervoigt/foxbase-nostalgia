@@ -13,9 +13,9 @@ Para baixar o foxbase e executar:
 
 https://winworldpc.com/product/foxbase/plus-210
 
-Descompactar o arquivo disk01.img com o 7.zip
+Descompactei o arquivo disk01.img com o programa 7-zip
 
-Para executar o foxplus.exe, pode ser usado o DOSBox
+Para executar o foxplus.exe, pode ser usado o programa DOSBox
 
 https://www.dosbox.com/
 
