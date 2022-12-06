@@ -5,7 +5,7 @@ Outro dia eu li um post no Linkedin pedindo pra comentar qual foi a sua primeira
 
 Enfim, neste repositório está um pouco desta nostalgia... :-)
 
-Em parceria com o professor de Física fizemos um trabalho sobre calcular distâncias de imagens em reflexos...
+Em parceria com o professor de Física fizemos um trabalho sobre "Espelhos côncavos e convexos".
 
 (Tentando lembrar o nome dos professores, Roberto Wild era de processamento de dados)
 
@@ -23,7 +23,7 @@ https://www.dosbox.com/
 
 # Hello world...
 
-Em uma tela que vc tinha apenas 80 colunas e 24 linhas, esse era o comando para escrever um texto na lina 1 e coluna 10:
+Em uma tela que vc tinha apenas 80 colunas e 24 linhas, esse era o comando para escrever um "Hello World" na lina 1 e coluna 10:
 
 @1,10 say "Hello World..."
 
@@ -35,25 +35,29 @@ Em uma tela que vc tinha apenas 80 colunas e 24 linhas, esse era o comando para 
 
 # Trabalho de Física
 
-Consegui executar o programa do trabalho da disciplina de Física citado acima, passos executados no DOSBOX:
+Consegui executar o programa do trabalho da disciplina de Física (Espelhos côncavos e convexos) citado acima.
 
- - montar uma unidade de disco X apontando para a pasta (real) onde estão o FoxBASE (pasta disk01) e o código fonte (pasta Foxbase/fisica)
+Infelizmente eu ainda não tenho um exemplo com números para testar o programa (naquela época não se falava em testes unitários :-D )
+
+Abaixo, os passos executados no DOSBOX:
+
+1) montar uma unidade de disco X apontando para a pasta (real) onde estão o FoxBASE (pasta disk01) e o código fonte (pasta Foxbase/fisica)
  
 MOUNT X c:\teste_fox
  
- - entrar na unidade X:
+2) entrar na unidade X:
  
 X:
   
- - definir o PATH para executar o FOXPLUS de dentro da pasta 
+3) definir o PATH para executar o FOXPLUS de dentro da pasta 
  
 SET PATH=X:\DISK01
  
- - entrar na pasta onde está o código fonte
+4) entrar na pasta onde está o código fonte
  
  CD FOXBASE\FISICA
 
-- executar o programa Imagens.PRG
+5) executar o programa Imagens.PRG
  
  FOXPLUS IMAGENS.PRG
  
