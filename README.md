@@ -1,13 +1,13 @@
 # foxbase-nostalgia
 Primeira linguagem de programação...
 
-Outro dia eu li um post no Linkedin pedindo pra comentar qual foi a sua primeira linguagem de programação e eu lembrei que tinha salvo em casa ainda alguns arquivos antigos (PRG) do tempo do Ensino Médio/Técnico em Processamento de Dados (ano 1999), onde aprendemos a programar com a lingagem FoxBASE+ (se não me engano depois virou FoxPro, e é muito semelhante também à linguagem Clipper)
+Outro dia eu li um post no Linkedin pedindo pra comentar qual foi a sua primeira linguagem de programação e eu lembrei que ainda tinha salvo em casa alguns arquivos antigos (extensão PRG) do tempo do Ensino Médio/Técnico em Processamento de Dados (ano 1999), onde aprendemos a programar com a linguagem FoxBASE+ (derivado do xBase, parente do FoxPro e Clipper)
+
+Em parceria com o professor de Física fizemos um trabalho sobre "Espelhos côncavos e convexos", onde na apresentação do trabalho nós digitávamos alguns dados de entrada e o programa apresentava como resultado a classificação do espelho e da imagem. Acho que recentemente teve até uma pergunta no EVEM desse assunto.
+
+(Tentando lembrar o nome dos professores, se não me engano era Salgado o nome do professor de Física, e Roberto Wild de Processamento de dados)
 
 Enfim, neste repositório está um pouco desta nostalgia... :-)
-
-Em parceria com o professor de Física fizemos um trabalho sobre "Espelhos côncavos e convexos".
-
-(Tentando lembrar o nome dos professores, Roberto Wild era de processamento de dados)
 
 Para baixar o foxbase e executar:
 
